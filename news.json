@@ -1,0 +1,23 @@
+[
+  {
+    "id": "n1",
+    "title": "Patch v2.5 — Performance & polish",
+    "date": "Oct 12, 2025",
+    "desc": "Performance improvements + UI polish. Read full patch notes in the launcher.",
+    "img": "https://i.ibb.co/HLQqKrj4/Chapter-2-Remix-Header.webp"
+  },
+  {
+    "id": "n2",
+    "title": "Matchmaking improvements",
+    "date": "Oct 9, 2025",
+    "desc": "We've fixed several issues and improved matchmaking stability.",
+    "img": "https://i.ibb.co/yBBpHp1D/Chapter-2-Season-4-Key-Art-Fortnite.webp"
+  },
+  {
+    "id": "n3",
+    "title": "Scheduled Maintenance",
+    "date": "Oct 7, 2025",
+    "desc": "Servers will be down for 3 hours for backend updates.",
+    "img": "https://i.ibb.co/DDsGMMyh/hq720.jpg"
+  }
+]
